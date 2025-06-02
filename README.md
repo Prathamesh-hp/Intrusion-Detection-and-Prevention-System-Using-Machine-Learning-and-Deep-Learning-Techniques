@@ -1,7 +1,3 @@
-Here's the GitHub README file text you can directly copy and save:
-
----
-
 # 🚨 Intrusion Detection and Prevention System (IDPS) using Machine Learning & Deep Learning
 
 This project presents a robust Intrusion Detection and Prevention System (IDPS) that leverages machine learning and deep learning techniques to accurately identify and classify various network intrusion types, including DoS, Port Scan, Web Attacks, Brute Force, and more.
